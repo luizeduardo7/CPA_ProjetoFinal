@@ -13,7 +13,7 @@ pip install uuid
 pip install urllib
 pip install requests
 
-Toda vez que formos colocar nossa blockchain em execução faremos de modo local, sendo assim, utilizaremos o software Postman(www.postman.com) para interagirmos por meio das requisições da blockchain.
+Toda vez que formos colocar nossa blockchain em execução faremos de modo local, sendo assim, utilizaremos o software Postman(www.postman.com) para interagirmos por meio das requisições da blockchain.<br>
 Basta baixar e instalar.
 
 
